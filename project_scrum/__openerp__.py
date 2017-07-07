@@ -17,7 +17,7 @@ More information:
     """,
     'author': 'Vertel AB',
     'website': 'http://www.vertel.se',
-    'depends': ['project', 'mail'],
+    'depends': ['project', 'mail', 'project_stage_state'],
     'data': ['project_scrum_view.xml',
         'wizard/project_scrum_test_task_view.xml',
         'security/ir.model.access.csv',
